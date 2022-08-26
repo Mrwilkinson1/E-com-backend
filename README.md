@@ -14,6 +14,7 @@ Node.js and NPM are required to run this package
 ```npm i```
 
 ## Video link
+https://watch.screencastify.com/v/PUWKWCBZPv7bY1SfvYoC
 
 ## Contributing 
 Please feel free to contribute.
